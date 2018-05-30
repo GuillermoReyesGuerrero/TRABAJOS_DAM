@@ -1,0 +1,17 @@
+[
+    {
+        "title":"La casa de papel",
+        "category":"objects",
+        "description":"Es una serie que trata de un profesor que recluta personas para robar un banco"
+    },
+    {
+        "title":"Avengers",
+        "category":"nature",
+        "description":"Es una pelicula de superheroes"
+    },
+    {
+        "title":"Toy Story",
+        "category":"people",
+        "description":"Es una pelicula de juguetes"
+    }
+]

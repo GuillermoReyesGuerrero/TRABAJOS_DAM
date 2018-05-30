@@ -1,0 +1,20 @@
+
+    {
+        "name":"Guillermo",
+        "email":"gugureyesgu@ittepic.edu.mx",
+        "photo":"http://restrepoospina.com.ec/consultas/img/registrado.png",
+        "sports":[
+            {
+                "name":"soccer",
+                "color":"red"
+            },
+            {
+                "name":"basketball",
+                "color":"green"
+            },
+            {
+                "name":"Vollyball",
+                "color":"black"
+            }
+        ]
+    }
